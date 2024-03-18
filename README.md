@@ -1,7 +1,7 @@
 # **Verkaufsprognose mit Linearer Regression**
 
 ## **Einführung:**
-Dieses Projekt zielt darauf ab, ein grundlegendes Verständnis für einfache und multiple lineare Regressionsverfahren zu entwickeln und den Unterschied zwischen diesen Ansätzen zu verdeutlichen. Der Schwerpunkt liegt auf der Anwendung dieser 
+Dieses Projekt zielt darauf ab, ein grundlegendes Verständnis für einfache und multiple lineare Regressionsverfahren zu entwickeln und den Unterschied zwischen diesen Ansätzen zu verdeutlichen. Der Schwerpunkt liegt auf der Anwendung der 
 Regressionstechniken, um den Zusammenhang zwischen den Werbeausgaben in verschiedenen Kanälen (wie Fernsehen, Radio und Zeitung) und den erzielten Verkäufen zu untersuchen.
 
 ## **Einfache Lineare Regression:**
